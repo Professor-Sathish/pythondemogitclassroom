@@ -1,3 +1,3 @@
-def add (a,b):
-    sum=a+b+0
+def add (v1,v2):
+    sum=v1+v2
     return sum
