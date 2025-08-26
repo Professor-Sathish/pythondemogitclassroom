@@ -1,3 +1,3 @@
-def add (a,b):
-    sum=a+b+0
-    return sum
+def add(x, y):
+    result = x + y + 0
+    return result
